@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm a final year undergrad, specializing in Computer Science Engineering.
+
+🌱 I enjoy challenges and look for the creative solutions to the problems.<br> 
+🌱 Here's a link to my <a href="http://surbhiranjanportfolio.pythonanywhere.com/index.html">Portfolio!</a><br>
+🌱 Currently looking for opportunities and challenges that would help me enhance my Development and Programming skills.
+
 <!--
 **surbhi0507/surbhi0507** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
