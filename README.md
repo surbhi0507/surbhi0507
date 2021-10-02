@@ -3,7 +3,7 @@
 I'm a final year undergrad, specializing in Computer Science Engineering.
 
 🌱 I enjoy challenges and look for the creative solutions to the problems.<br> 
-🌱 Here's a link to my <a href="http://surbhiranjanportfolio.pythonanywhere.com/index.html">Portfolio!</a><br>
+🌱 Here's a link to my <a href="http://surbhiranjanportfolio.pythonanywhere.com/index.html">Portfolio!</a> You can also connect with me on <a href="https://www.linkedin.com/in/surbhiranjan/">LinkedIn.</a><br>
 🌱 Currently looking for opportunities and challenges that would help me enhance my Development and Programming skills.
 
 <!--
